@@ -1,4 +1,5 @@
 # 4475-group1
+**This feature has since been deprecated due to Firebase licensing expiration.**
 
 How to install/use the product in its current state:
 
